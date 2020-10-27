@@ -6,4 +6,8 @@ def run_guessing_game
   
   input = gets.chomp.to_i
   if 
+    puts "You guessed the correct number!"
+  elsif
+    puts 
+    
 end
