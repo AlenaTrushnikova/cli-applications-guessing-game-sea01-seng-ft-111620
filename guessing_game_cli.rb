@@ -1,5 +1,8 @@
 # Code your solution here!
 
 def run_guessing_game
-  rand(6) + 1
+  computer_number = rand(6) + 1
+  
+  
+  input = gets.chomp.to_i
 end
